@@ -1,2 +1,3 @@
-telegbot - Telegramm-bot - конвертор валют
+telegbot - Telegramm-bot - конвертор валют.
+<br>
 sea-battle - консольная игра "Морской бой"
